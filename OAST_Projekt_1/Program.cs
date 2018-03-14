@@ -10,6 +10,8 @@ namespace OAST_Projekt_1
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Czesc Piotr");
+            Console.ReadKey();
         }
     }
 }
